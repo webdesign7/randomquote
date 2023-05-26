@@ -1,0 +1,10 @@
+{
+    "name": "webdesign7/randomquote",
+    "type": "composer-plugin",
+    "autoload": {
+        "psr-4": {
+            "Webdesign7\\Randomquote\\": "src/"
+        }
+    },
+    "require": {}
+}
