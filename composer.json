@@ -5,5 +5,11 @@
             "Webdesign7\\Randomquote\\": "src/"
         }
     },
+    "authors": [
+        {
+            "name": "Sergiu",
+            "email": "webdesign7ltd@gmail.com"
+        }
+    ],
     "require": {}
 }
