@@ -1,5 +1,6 @@
 {
     "name": "webdesign7/randomquote",
+    "type" : "library",
     "autoload": {
         "psr-4": {
             "Webdesign7\\Randomquote\\": "src/"
